@@ -58,4 +58,28 @@ Add your portfolio returns to the DataFrame with the other portfolios and rerun 
   - The calculated annualized Sharpe Ratios and the accompanying bar plot visualization.
   - A correlation table.
 
+---
+## Daily Returns
+[<img src="Results/Coal_pic.jpg"/>]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
