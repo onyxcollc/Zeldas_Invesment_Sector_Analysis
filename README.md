@@ -59,8 +59,18 @@ Add your portfolio returns to the DataFrame with the other portfolios and rerun 
   - A correlation table.
 
 ---
-## Daily Returns
+### Daily Returns
 [<img src="Results/Daily_Returns.PNG"/>]
+
+Between all portfolios  Tiger Global Management LLC daily returns are the most volital. The green spikes show that. 
+
+
+### Cumulative Returns 
+[<img src="Results/Cum.PNG"/>]
+
+
+
+
 
 
 
