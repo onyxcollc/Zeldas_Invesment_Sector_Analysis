@@ -73,7 +73,7 @@ Between all portfolios  Tiger Global Management LLC daily returns are the most v
 ### Cumulative Returns 
 <img src="Results/Cum.PNG"/>
 
- Algo 1 portfolio cumulative return performed better then the  whales and S&P 500 overtime.
+ Algo 1 portfolio cumulative returns performed better then the  whales and S&P 500 overtime.
  
  ---
  
@@ -87,6 +87,7 @@ Between all portfolios  Tiger Global Management LLC daily returns are the most v
  
  ### Risk
  
+ <img src="Results/Risk_Box.PNG"/>
  
  
  
