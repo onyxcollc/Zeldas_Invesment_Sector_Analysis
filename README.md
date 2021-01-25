@@ -60,7 +60,9 @@ Add your portfolio returns to the DataFrame with the other portfolios and rerun 
 
 ---
 ## Daily Returns
-[<img src="Results/Coal_pic.jpg"/>]
+[<img src="Results/Daily_Returns.PNG"/>]
+
+
 
 
 
