@@ -60,7 +60,7 @@ Add your portfolio returns to the DataFrame with the other portfolios and rerun 
 
 ---
 ### Daily Returns
-[<img src="Results/Daily_Returns.PNG"/>]
+<img src="Results/Daily_Returns.PNG"/>
  
 Between all portfolios  Tiger Global Management LLC daily returns are the most volatile, the green spikes show that price action.
 
