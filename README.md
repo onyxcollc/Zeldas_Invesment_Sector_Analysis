@@ -97,7 +97,11 @@ Between all portfolios  Tiger Global Management LLC daily returns are the most v
  
  <img src="Results/21_Day_Rolling_Standard.PNG"/>
  
- Berkshire Hathaway and Tiger Global have very high standard deviations, which tells us it's averages are far from the mean.  
+ Berkshire Hathaway and Tiger Global have very high standard deviations, which tells us it's averages are far from the mean. 
+ 
+ ### Exponent Weighted Average 
+ 
+ <img src="Results/Exponent_Weighted.PNG"/>
  
  
  
