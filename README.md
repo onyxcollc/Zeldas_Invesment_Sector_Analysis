@@ -61,14 +61,18 @@ Add your portfolio returns to the DataFrame with the other portfolios and rerun 
 ---
 ### Daily Returns
 [<img src="Results/Daily_Returns.PNG"/>]
-
-Between all portfolios  Tiger Global Management LLC daily returns are the most volital. The green spikes show that. 
+ 
+Between all portfolios  Tiger Global Management LLC daily returns are the most volatile, the green spikes show that price action.
 
 
 ### Cumulative Returns 
 [<img src="Results/Cum.PNG"/>]
 
-
+ Algo1 portfolio cumulative return performed better then the  whales and SP500 over time.
+ 
+### Sharpe Ratio
+ [<img src="Results/Sharpe_Ratio.PNG"/>]
+ 
 
 
 
