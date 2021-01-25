@@ -93,6 +93,11 @@ Between all portfolios  Tiger Global Management LLC daily returns are the most v
  Tiger Global has the most risk and one of the worst sharpe ratios. I would advice to stay away from the investment.
  
  
+ ### 21 Day Rolling Average 
+ 
+ <img src="Results/21_Day_Rolling_Standard.PNG"/>
+ 
+ 
  
  
  
